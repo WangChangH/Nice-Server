@@ -1,0 +1,11 @@
+C:\Users\Justin\Documents\u3dWorkspace\Nice-Server\Bin\netcoreapp3.0\MongoDB.Driver.GridFS.deps.json
+C:\Users\Justin\Documents\u3dWorkspace\Nice-Server\Bin\netcoreapp3.0\MongoDB.Driver.GridFS.dll
+C:\Users\Justin\Documents\u3dWorkspace\Nice-Server\Bin\netcoreapp3.0\MongoDB.Driver.GridFS.pdb
+C:\Users\Justin\Documents\u3dWorkspace\Nice-Server\Bin\netcoreapp3.0\MongoDB.Driver.GridFS.xml
+C:\Users\Justin\Documents\u3dWorkspace\Nice-Server\Nice-Server\ThirdParty\MongoDBDriver\MongoDB.Driver.GridFS\obj\Debug\netcoreapp3.0\MongoDB.Driver.GridFS.csprojAssemblyReference.cache
+C:\Users\Justin\Documents\u3dWorkspace\Nice-Server\Nice-Server\ThirdParty\MongoDBDriver\MongoDB.Driver.GridFS\obj\Debug\netcoreapp3.0\MongoDB.Driver.GridFS.AssemblyInfoInputs.cache
+C:\Users\Justin\Documents\u3dWorkspace\Nice-Server\Nice-Server\ThirdParty\MongoDBDriver\MongoDB.Driver.GridFS\obj\Debug\netcoreapp3.0\MongoDB.Driver.GridFS.AssemblyInfo.cs
+C:\Users\Justin\Documents\u3dWorkspace\Nice-Server\Nice-Server\ThirdParty\MongoDBDriver\MongoDB.Driver.GridFS\obj\Debug\netcoreapp3.0\MongoDB.Driver.GridFS.csproj.CopyComplete
+C:\Users\Justin\Documents\u3dWorkspace\Nice-Server\Nice-Server\ThirdParty\MongoDBDriver\MongoDB.Driver.GridFS\obj\Debug\netcoreapp3.0\MongoDB.Driver.GridFS.dll
+C:\Users\Justin\Documents\u3dWorkspace\Nice-Server\Nice-Server\ThirdParty\MongoDBDriver\MongoDB.Driver.GridFS\obj\Debug\netcoreapp3.0\MongoDB.Driver.GridFS.xml
+C:\Users\Justin\Documents\u3dWorkspace\Nice-Server\Nice-Server\ThirdParty\MongoDBDriver\MongoDB.Driver.GridFS\obj\Debug\netcoreapp3.0\MongoDB.Driver.GridFS.pdb
