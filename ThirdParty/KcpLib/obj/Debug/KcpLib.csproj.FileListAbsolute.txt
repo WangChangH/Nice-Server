@@ -17,3 +17,4 @@ C:\Users\Justin\Documents\u3dWorkspace\Nice-Server\Bin\libkcp.so
 C:\Users\Justin\Documents\u3dWorkspace\Nice-Server\Bin\KcpLib.deps.json
 C:\Users\Justin\Documents\u3dWorkspace\Nice-Server\Bin\KcpLib.dll
 C:\Users\Justin\Documents\u3dWorkspace\Nice-Server\Bin\KcpLib.pdb
+C:\Users\Justin\Documents\u3dWorkspace\Nice-Server\Nice-Server\ThirdParty\KcpLib\obj\Debug\KcpLib.csprojAssemblyReference.cache
