@@ -13,9 +13,6 @@
     <OutputPath>..\..\..\Bin\</OutputPath>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Remove="Kcp.cs" />
-  </ItemGroup>
-  <ItemGroup>
     <None Remove="x86_64\kcp.dll" />
   </ItemGroup>
   <ItemGroup>
